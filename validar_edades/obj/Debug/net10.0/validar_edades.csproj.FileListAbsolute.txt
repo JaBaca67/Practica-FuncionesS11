@@ -1,0 +1,15 @@
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\bin\Debug\net10.0\validar_edades.exe
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\bin\Debug\net10.0\validar_edades.deps.json
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\bin\Debug\net10.0\validar_edades.runtimeconfig.json
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\bin\Debug\net10.0\validar_edades.dll
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\bin\Debug\net10.0\validar_edades.pdb
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.AssemblyInfoInputs.cache
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.AssemblyInfo.cs
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.csproj.CoreCompileInputs.cache
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.sourcelink.json
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.dll
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\refint\validar_edades.dll
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.pdb
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\validar_edades.genruntimeconfig.cache
+C:\Users\AlejandroWong\Documents\Practica-FuncionesS11\validar_edades\obj\Debug\net10.0\ref\validar_edades.dll
